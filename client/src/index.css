@@ -5,7 +5,7 @@
   --font-base: 'Raleway', sans-serif;
   --bg-color: #030111;
   --font-color: #f6a715;
-  --font-color2: #f649159c;
+  --font-color2: #f8a407;
   --dark-color: #464646;
   --light-grey: #d8d2d2;
   --white-color: #F2F7FC;
@@ -28,6 +28,7 @@ body {
   line-height: 1.6;
   font-family: var(--font-base);
   color: var(--dark-color);
+  /*overflow: hidden;*/
 }
 
 a {

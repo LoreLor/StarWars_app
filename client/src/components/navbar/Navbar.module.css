@@ -1,19 +1,17 @@
 .navbar{
     background-color: var(--bg-color);
+    padding: 2rem 0;
     position: sticky;
+    top: 0;
 }
 
 .navbar_content{
     display: flex;
 }
 
-.navbar_brand {
+.navbar_brand img {
     display: flex;
-    align-items: center;
-    text-transform: uppercase;
-    font-weight: 700;
-    font-size: 2.5rem;
-    color: var(--font-color);
+    width: 19rem;
 }
 
 .brand_and_toggler {
