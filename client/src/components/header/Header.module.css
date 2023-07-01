@@ -1,0 +1,38 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    background-color: var(--bg-color);
+}
+
+.header_content {
+    display: grid;
+    padding: 6rem 0;
+    row-gap: 6rem;
+    min-height: calc(100vh - 100px);
+    color: var(--font-color);
+    text-align: center;
+}
+
+.header_content_right img{
+    width: 100%;
+    object-fit: content;
+}
+
+.header_title {
+    text-transform: uppercase;
+    margin-bottom: 2.5rem;
+}
+
+.header_description {
+    line-height: 4rem;
+    text-transform: uppercase;
+}
+
+@media screen and (min-width: 992px){
+    .header_content {
+        grid-template-columns: 2fr 3fr;
+        align-items: center;
+        text-align: left;
+        column-gap: 6rem;
+    }
+}

@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,500;0,700;0,800;0,900;1,100;1,200;1,300;1,600&display=swap');
+@import 'animate.css';
+
+:root {
+  --font-base: 'Raleway', sans-serif;
+  --bg-color: #030111;
+  --font-color: #f6a715;
+  --font-color2: #f649159c;
+  --dark-color: #464646;
+  --light-grey: #d8d2d2;
+  --white-color: #F2F7FC;
+  --transition: all 1s ease-in-out;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-size: 1.8rem;
+  line-height: 1.6;
+  font-family: var(--font-base);
+  color: var(--dark-color);
+}
+
+a {
+  color: unset;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+img {
+  width: 100%;
+  display: block;
+}
+
+button {
+  cursor: pointer;
+  outline: 0;
+  border: none;
+  background-color: transparent;
+  font-family: inherit;
+  font-size: 1.8rem; 
+}
+
+input, textarea {
+  outline:0;
+  border: none;
+  resize: none;
+}
+
+h1, h2, h3, h4 {
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
