@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     background-color: var(--bg-color);
-    background-image: linear-gradient(#010b2bc9, #13010160), url('../../assets/star_landing.jpg');
+    background-image: linear-gradient(#030111, #13010160), url('../../assets/star_landing.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -10,15 +10,11 @@
 .header_content{
     display: flex;
     flex-direction: column;
-    width: 35vw;
     height: 80vh;;
     padding: 6rem 0;
     color: var(--font-color2);
-    text-align: center;
-    transform: perspective(200px) rotateX(20deg);
-    animation: intro 20s linear infinite;
+    
 }
-
 
 .header_title {
     text-transform: uppercase;
@@ -49,8 +45,21 @@
 
 @media screen and (min-width: 992px){
     .header_content {
+        padding: 0 40rem;
         align-items: center;
         text-align: left;
         column-gap: 6rem;
+        text-align: center;
+        transform: perspective(200px) rotateX(20deg);
+        animation: intro 20s linear infinite;
+    }
+}
+
+@media screen and (max-width:992px) {
+    .header_title {
+        display: none;
+    }
+    .header_description{
+        display:none;
     }
 }

@@ -9,6 +9,7 @@ function App() {
   return (
     <div className='App'>
       <Navbar />
+      <div className="section_padding"></div>
       <Header />
     </div>
   )

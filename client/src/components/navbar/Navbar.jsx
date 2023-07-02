@@ -6,16 +6,11 @@ import { faBars, faXmark } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 const Navbar = () => {
-    const [click, setClick] = useState(false)
+    const [openMenu, setOpenMenu] = useState(false)
 
     const handleClick = () => {
-        setClick(!click)
-        // console.log('soy un click', click)
-    }
-
-    const close = () => {
-        setClick(false)
-        // console.log('soy open', click)
+        setOpenMenu(!openMenu)
+        console.log('soy un click', openMenu)
     }
 
     return (
@@ -28,20 +23,36 @@ const Navbar = () => {
                         </a>
                         <button
                             type='button'
-                            className={style.navbar_show_btn}
+                            className={style.navbar_show}
                             onClick={handleClick}
                         >
                             <FontAwesomeIcon icon={faBars} style={{ fontSize: 32 }} />
                         </button>
                     </div>
-                    <div className={`${style.navbar_collapse} ${click ? style.show_nav : ''}`}>
+                    
+                    <div className={`${style.navbar_collapse} ${openMenu ? style.navbar_show : ''}`}>
                         <button
                             type="button"
-                            className={style.navbar_hide_btn}
-                            onClick={close}
+                            className={style.navbar_hide}
+                            onClick={handleClick}
                         >
                             <FontAwesomeIcon icon={faXmark} style={{ fontSize: 32 }} />
                         </button>
+
+                        <ul className={style.navbar_nav}>
+                            <li className={style.nav_item}>
+                                <a href="#header" className={style.nav_link}>intro</a>
+                            </li>
+                            <li className={style.nav_item}>
+                                <a href="#characters" className={style.nav_link}>characters</a>
+                            </li>
+                            <li className={style.nav_item}>
+                                <a href="#films" className={style.nav_link}>films</a>
+                            </li>
+                            <li className={style.nav_item}>
+                                <a href="#planets" className={style.nav_link}>planets</a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
