@@ -42,8 +42,6 @@ characterSchema.statics.insert = async function(character){
     return await this.create(character)
 }
 
-characterSchema.statics.delete = async function(_id){
-    return await this.deleteOne({_id:_id})
-}
+
 
 module.exports = characterSchema
