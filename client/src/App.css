@@ -9,3 +9,20 @@
   padding: 6rem 0;
 }
 
+/* arrow-up */
+.up{
+  position: fixed;
+  bottom: 40px;
+  right: 50px;
+}
+
+.up a {
+  color: var(--font-color);
+  font-size: 6rem;
+  transition: color 0.5s ease-in;
+}
+
+.up a:hover{
+  transition: color 0.5s ease-in;
+  color:var(--dark-color);
+}
