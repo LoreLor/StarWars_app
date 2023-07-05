@@ -4,8 +4,8 @@ const middleware = require('../middleware');
 
 const router = Router();
 
-router.get('/:model', controllers.listController);
-router.get('/:model/:_id', controllers.getIdController);
-router.post('/:model', controllers.insertController);
+router.get('/:model', middleware.modelsValidation, controllers.listController);
+router.get('/:model/:id', middleware.modelsValidation, controllers.getIdController);
+router.post('/:model', middleware.modelsValidation, controllers.insertController);
 
 module.exports = router;
