@@ -23,6 +23,11 @@ app.use('/characters', createProxyMiddleware({
     changeOrigin: true
 }))
 
+app.use('/db', createProxyMiddleware)({
+    target: 'http://db:7004',
+    changeOrigin: true
+})
+
 app.listen(PORT, () => {
     console.log(`GATEWAY2 on port ${PORT}`)
 })
