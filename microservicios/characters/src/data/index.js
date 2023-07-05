@@ -1,4 +1,4 @@
-const characters = require('./characters.json')
+const characters = require('./characters')
 
 module.exports = {
     list: async () => {

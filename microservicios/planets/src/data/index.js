@@ -1,4 +1,4 @@
-const planets = require('./planets.json')
+const planets = require('./planets')
 
 module.exports = {
     list: async () => {

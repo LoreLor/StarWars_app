@@ -1,4 +1,4 @@
-const films = require('./films.json')
+const films = require('./films')
 
 module.exports = {
     list: async () => {
