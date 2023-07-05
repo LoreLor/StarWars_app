@@ -29,13 +29,13 @@ const characterSchema = new Schema({
 characterSchema.statics.list = async function(){
     return await this.find()
     .populate("homeworld", ["_id", "name"])
-    .pupulate("films", ["_id", "film"])
+    .populate("films", ["_id", "film"])
 }
 
 characterSchema.statics.getId = async function(_id){
     return await this.findById(_id)
     .populate("homeworld", ["_id", "name"])
-    .pupulate("films", ["_id", "film"])
+    .populate("films", ["_id", "film"])
 }
 
 characterSchema.statics.insert = async function(character){
