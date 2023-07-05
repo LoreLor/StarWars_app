@@ -18,16 +18,16 @@ app.use('/films', createProxyMiddleware({
     changeOrigin: true
 }))
 
-app.use('/characters', createProxyMiddleware({
+app.use('/planets', createProxyMiddleware({
     target: 'http://planets:7003',
     changeOrigin: true
 }))
 
-app.use('/db', createProxyMiddleware)({
+app.use('/db', createProxyMiddleware({
     target: 'http://db:7004',
     changeOrigin: true
-})
+}))
 
 app.listen(PORT, () => {
-    console.log(`GATEWAY2 on port ${PORT}`)
+    console.log(`GATEWAY on port ${PORT}`)
 })
