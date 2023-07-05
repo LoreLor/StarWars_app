@@ -1,4 +1,6 @@
-const Planets = require('../data')
+const axios = require('axios')
+
+const Planets = axios.get('http://db:7004/Planet')
 const { response } = require('../utils')
 
 module.exports = async (req, res) => {

@@ -23,10 +23,6 @@ app.use('/planets', createProxyMiddleware({
     changeOrigin: true
 }))
 
-app.use('/db', createProxyMiddleware({
-    target: 'http://db:7004',
-    changeOrigin: true
-}))
 
 app.listen(PORT, () => {
     console.log(`GATEWAY on port ${PORT}`)
