@@ -1,6 +1,4 @@
-const axios = require('axios')
-
-const Films = axios.post('http://db:7004/Film')
+const Films = require('../data')
 const { response } = require('../utils')
 
 module.exports = async (req, res) => {

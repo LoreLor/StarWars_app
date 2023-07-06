@@ -1,6 +1,4 @@
-const axios = require('axios')
-
-const Planet = axios.post('http://db:7004/Planet')
+const Planet = require('../data')
 const response = require('../utils')
 
 module.exports = async (req, res) => {
