@@ -4,11 +4,11 @@ module.exports = {
     list: async () => {
         return await axios.get('http://db:7004/Planet')
     },
-    getById: async (_id) => {
-        return await axios.get(`http://db:7004/Planet/${_id}`)
+    getById: async (id) => {
+        return await axios.get(`http://db:7004/Planet/${id}`)
     },
-    create: async (body) => {
-        return await axios.post('http://db:7004/Planet', body)
+    create: async (dataBody) => {
+        return await axios.post('http://db:7004/Planet', dataBody)
         // throw new Error('Ocurred some error with your post')
     }
 }
