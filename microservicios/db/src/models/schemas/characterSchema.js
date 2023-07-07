@@ -32,7 +32,7 @@ characterSchema.statics.list = async function(){
     .populate("films", ["_id", "title"])
 }
 
-characterSchema.statics.getId = async function(_id){
+characterSchema.statics.get = async function(_id){
     return await this.findById(_id)
     .populate("homeworld", ["_id", "name"])
     .populate("films", ["_id", "title"])

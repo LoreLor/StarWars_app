@@ -1,7 +1,9 @@
-const axios = require('axios')
+const Characters = require('../data')
 const { response } = require('../utils')
 
 module.exports = async (req, res) => {
-    const result = await axios.get('http://db:7004/Plannet')
+    const { id } = req.params
+
+    const result = await Characters.getById(id)
     response(res, 200, result.data)
 }

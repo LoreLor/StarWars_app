@@ -1,10 +1,16 @@
-const characters = require('./characters')
+const axios = require('axios')
 
 module.exports = {
     list: async () => {
-        return characters
+        return await axios.get('http://localhost:7004/Character')
     },
-    create: async () => {
-        throw new Error('Character not found')
+
+    getById: async (_id) => {
+        return await axios.get(`http://localhost:7004/Character/${_id}`)
+    },
+
+    create: async (body) => {
+        return await axios.post('http://localhost:7004/Character', body)
+        // throw new Error('Character not found')
     }
 }

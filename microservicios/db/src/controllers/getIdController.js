@@ -1,9 +1,9 @@
 const allModels = require('../models');
-const response = require('../utils/response');
+const { response } = require('../utils');
 
 module.exports = async(req, res) => {
-    const { model, _id } = req.params;
+    const { model, id} = req.params;
 
-    const result = await allModels[model].getId(_id);
-    response(res, 200, result)
+    const result = await allModels[model].get(id)
+    res.status(200).send(result)
 }
