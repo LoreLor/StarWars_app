@@ -12,12 +12,11 @@ function App() {
   return (
     <div className='App'>
       <Navbar />
-      <div className="section_padding"></div>
       <Header />
       <div className="section_padding"></div>
       <Characters />
       <div className="up">
-        <a href="#intro">
+        <a href="#header">
         <FontAwesomeIcon icon={faArrowAltCircleUp} />
         </a>
       </div>

@@ -6,13 +6,21 @@
 .section_title {
     width: 320px;
     margin:0 auto;
-    padding: 1rem;
+    padding-bottom: 4rem;
+    text-align: center;
 }
 
 .title {
     color:var(--font-color);
     text-transform: uppercase;
     font-size: 3rem;
+}
+
+.content {
+    display: grid;
+    padding-left: 10rem;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 3rem;
 }
 
 
