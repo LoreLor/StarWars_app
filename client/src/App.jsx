@@ -6,14 +6,23 @@ import Header from './components/header/Header'
 import Navbar from './components/navbar/Navbar'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
+import AOS from 'aos'
+import 'aos/dist/aos.css'
+import { useEffect } from 'react'
+
+
+
+
 function App() {
-  
+  useEffect(() => {
+    AOS.init()
+  })
 
   return (
     <div className='App'>
       <Navbar />
       <Header />
-      <div className="section_padding"></div>
+     
       <Characters />
       <div className="up">
         <a href="#header">
