@@ -43,6 +43,7 @@ const Characters = () => {
                   gender={c.gender}
                   homeworld={c.homeworld}
                   films={c.films}
+                  image={c.image}
               />
               </div>
             )}))

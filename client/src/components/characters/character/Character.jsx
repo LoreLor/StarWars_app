@@ -11,6 +11,9 @@ const Character = ({_id, name, gender, homeworld, films}) => {
                     {homeworld?.name}
                 </p>
                 <p className={style.subtitle}>Gender: {' '} {gender}</p>
+                <figure  className={style.card_image}>
+                    <img src={'https://i.postimg.cc/PxBQ013f/Darth-Maul.jpg'} alt="character_image" />
+                </figure>
             </figcaption>
             <figcaption className={style.back}>
                 <h1 className={style.title}>Films:</h1>

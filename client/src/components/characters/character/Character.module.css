@@ -7,16 +7,15 @@
   .content {
     height:fit-content;
     width: 25vw;
-    min-height: 50vh;
+    min-height: 60vh;
     text-align: center;
     position: relative;
     transition: all 2.25s;
-    background-color: #088ad6fa;
     color: white;
-   
     transform-style: preserve-3d;
     border-radius: 15px;
-    border: 3px inset var(--font-color);
+    background-color: var(--bg-color2);
+    border: 3px inset  #088ad6fa;;
   }
 
   
@@ -41,9 +40,9 @@
 
   .title {
     transform: translateZ(5rem);
-    font-size: 3rem;
+    font-size: 2rem;
     color: white;
-    padding-bottom: 3rem;
+    padding-bottom: 1rem;
 
   }
   
@@ -56,9 +55,10 @@
   
   .back {
     transform: rotateY(0.5turn);
-    background-color: var(--bg-color2);
-    border: 3px inset var(--bg-color);
+    
     color:white;
+    background-color: #0774b3fa;
+    border: 3px inset var(--bg-color2);
 
   }
   
@@ -69,4 +69,12 @@
   
   .description li{
     text-align: start;
+  }
+
+  .card_image img {
+    object-fit: contain;
+    height: 200px;
+    position: absolute;
+    bottom: 10px;
+    left: 0;
   }
