@@ -10,6 +10,7 @@
     "birth_year": "19BBY",
     "gender": "male",
     "homeworld": "1",
+    "image":"https://i.postimg.cc/dtKJHZy1/lukek.webp",
     "films": ["1", "2", "3", "6"]
   },
   {
@@ -23,6 +24,7 @@
     "birth_year": "112BBY",
     "gender": "n/a",
     "homeworld": "1",
+    "image":"https://i.postimg.cc/J4cM97NQ/c-3po.webp",
     "films": ["1", "2", "3", "4", "5", "6"]
   },
   {
@@ -36,6 +38,7 @@
     "birth_year": "33BBY",
     "gender": "n/a",
     "homeworld": "8",
+    "image":"https://i.postimg.cc/9X9WYYzK/R2.jpg",
     "films": ["1", "2", "3", "4", "5", "6"]
   },
   {
@@ -49,6 +52,7 @@
     "birth_year": "41.9BBY",
     "gender": "male",
     "homeworld": "1",
+    "image":"https://i.postimg.cc/MZ3JgWpC/darth-vader.jpg",
     "films": ["1", "2", "3", "6"]
   },
   {
@@ -62,6 +66,7 @@
     "birth_year": "19BBY",
     "gender": "female",
     "homeworld": "2",
+    "image":"https://i.postimg.cc/hP4NrhRF/Leia-Organa.jpg",
     "films": ["1", "2", "3", "6"]
   },
   {
@@ -75,6 +80,7 @@
     "birth_year": "52BBY",
     "gender": "male",
     "homeworld": "1",
+    "image":"https://i.postimg.cc/brf2Qd64/Owen-Lars.webp",
     "films": ["1", "5", "6"]
   },
   {
@@ -88,6 +94,7 @@
     "birth_year": "47BBY",
     "gender": "female",
     "homeworld": "1",
+    "image":"https://i.postimg.cc/1XpPq3TC/Beru-Whitesun-Lars.jpg",
     "films": ["1", "5", "6"]
   },
   {
@@ -101,6 +108,7 @@
     "birth_year": "unknown",
     "gender": "n/a",
     "homeworld": "1",
+    "image":"https://i.postimg.cc/NjxjcTnN/R5D4.webp",
     "films": ["1"]
   },
   {
@@ -114,6 +122,7 @@
     "birth_year": "24BBY",
     "gender": "male",
     "homeworld": "1",
+    "image":"https://i.postimg.cc/fLycXMXN/biggs-darklighter.webp",
     "films": ["1"]
   },
   {
@@ -127,6 +136,7 @@
     "birth_year": "57BBY",
     "gender": "male",
     "homeworld": "20",
+    "image":"https://i.postimg.cc/W37ypGr4/Obi-Wan-Kenobi.webp",
     "films": ["1", "2", "3", "4", "5", "6"]
   },
   {
@@ -140,6 +150,7 @@
     "birth_year": "41.9BBY",
     "gender": "male",
     "homeworld": "1",
+    "image":"https://i.postimg.cc/kg5QHk7G/Anakin-Skywalker.webp",
     "films": ["4", "5", "6"]
   },
   {
@@ -153,6 +164,7 @@
     "birth_year": "64BBY",
     "gender": "male",
     "homeworld": "21",
+    "image":"https://i.postimg.cc/RVXGPDP0/Wilhuff-Tarkin.jpg",
     "films": ["1", "6"]
   },
   {
@@ -166,6 +178,7 @@
     "birth_year": "200BBY",
     "gender": "male",
     "homeworld": "14",
+    "image":"https://i.postimg.cc/brkzLn0x/Chewbacca.jpg",
     "films": ["1", "2", "3", "6"]
   },
   {
@@ -179,6 +192,7 @@
     "birth_year": "29BBY",
     "gender": "male",
     "homeworld": "22",
+    "image":"https://i.postimg.cc/J7QqTzK8/Han-Solo.webp",
     "films": ["1", "2", "3"]
   },
   {
@@ -192,6 +206,7 @@
     "birth_year": "44BBY",
     "gender": "male",
     "homeworld": "23",
+    "image":"https://i.postimg.cc/fL836yLt/Greedo.jpg",
     "films": ["1"]
   },
   {
@@ -205,6 +220,7 @@
     "birth_year": "600BBY",
     "gender": "hermaphrodite",
     "homeworld": "24",
+    "image":"https://i.postimg.cc/VsZ9vqQV/Jabba-Desilijic-Tiure.jpg",
     "films": ["1", "3", "4"]
   },
   {
@@ -231,6 +247,7 @@
     "birth_year": "unknown",
     "gender": "male",
     "homeworld": "26",
+    "image":"https://i.postimg.cc/9Qnprs4K/Jek-Tono-Porkins.jpg",
     "films": ["1"]
   },
   {
@@ -244,6 +261,7 @@
     "birth_year": "896BBY",
     "gender": "male",
     "homeworld": "28",
+    "image":"https://i.postimg.cc/bvrX1Xwh/Yoda.jpg",
     "films": ["2", "3", "4", "5", "6"]
   },
   {
@@ -257,6 +275,7 @@
     "birth_year": "82BBY",
     "gender": "male",
     "homeworld": "8",
+    "image":"https://i.postimg.cc/9f202YVS/Palpatine.webp",
     "films": ["2", "3", "4", "5", "6"]
   },
   {
@@ -270,6 +289,7 @@
     "birth_year": "31.5BBY",
     "gender": "male",
     "homeworld": "10",
+    "image":"https://i.postimg.cc/vmbwPPLP/Boba-Fett.jpg",
     "films": ["2", "3", "5"]
   },
   {
@@ -283,6 +303,7 @@
     "birth_year": "15BBY",
     "gender": "none",
     "homeworld": "28",
+    "image":"https://i.postimg.cc/QxySfS1p/IG-88.jpg",
     "films": ["2"]
   },
   {
@@ -296,6 +317,7 @@
     "birth_year": "53BBY",
     "gender": "male",
     "homeworld": "29",
+    "image":"https://i.postimg.cc/dQW4xZ1F/Bossk.jpg",
     "films": ["2"]
   },
   {
@@ -309,6 +331,7 @@
     "birth_year": "31BBY",
     "gender": "male",
     "homeworld": "30",
+    "image":"https://i.postimg.cc/28qHPdVY/Lando-Calrissian.jpg",
     "films": ["2", "3"]
   },
   {
@@ -322,6 +345,7 @@
     "birth_year": "37BBY",
     "gender": "male",
     "homeworld": "6",
+    "image":"https://i.postimg.cc/xdY7Lkgz/lobot.jpg",
     "films": ["2"]
   },
   {
@@ -335,6 +359,7 @@
     "birth_year": "41BBY",
     "gender": "male",
     "homeworld": "31",
+    "image":"https://i.postimg.cc/1RGL31St/Ackbar.webp",
     "films": ["3"]
   },
   {
@@ -348,6 +373,7 @@
     "birth_year": "48BBY",
     "gender": "female",
     "homeworld": "32",
+    "image":"https://i.postimg.cc/NFvSxBhK/Mon-Mothma.jpg",
     "films": ["3"]
   },
   {
@@ -361,6 +387,7 @@
     "birth_year": "unknown",
     "gender": "male",
     "homeworld": "28",
+    "image":"https://i.postimg.cc/N0qp2bR4/Arvel-crynyd.webp",
     "films": ["3"]
   },
   {
@@ -374,6 +401,7 @@
     "birth_year": "8BBY",
     "gender": "male",
     "homeworld": "7",
+    "image":"https://i.postimg.cc/L4Qk1RPD/Wicket-Rot-J.webp",
     "films": ["3"]
   },
   {
@@ -387,6 +415,7 @@
     "birth_year": "unknown",
     "gender": "male",
     "homeworld": "33",
+    "image":"https://i.postimg.cc/MT3vL6bp/Nien-Nunb-white-bg.webp",
     "films": ["3"]
   },
   {
@@ -400,6 +429,7 @@
     "birth_year": "92BBY",
     "gender": "male",
     "homeworld": "28",
+    "image":"https://i.postimg.cc/50DF09Hk/QuiGon.webp",
     "films": ["4"]
   },
   {
@@ -413,6 +443,7 @@
     "birth_year": "unknown",
     "gender": "male",
     "homeworld": "18",
+    "image":"https://i.postimg.cc/wMnqLFD6/Nute3.webp",
     "films": ["4", "5", "6"]
   },
   {
@@ -426,6 +457,7 @@
     "birth_year": "91BBY",
     "gender": "male",
     "homeworld": "9",
+    "image":"https://i.postimg.cc/fTz9Bb4m/Finis-Valorum.jpg",
     "films": ["4"]
   },
   {
@@ -439,6 +471,7 @@
     "birth_year": "46BBY",
     "gender": "female",
     "homeworld": "8",
+    "image":"https://i.postimg.cc/m27TzYpS/Padm-Amidala.jpg",
     "films": ["4", "5", "6"]
   },
   {
@@ -452,6 +485,7 @@
     "birth_year": "52BBY",
     "gender": "male",
     "homeworld": "8",
+    "image":"https://i.postimg.cc/SRWHsrQ2/jar-jar-new.jpg",
     "films": ["4", "5"]
   },
   {
@@ -465,6 +499,7 @@
     "birth_year": "unknown",
     "gender": "male",
     "homeworld": "8",
+    "image":"https://i.postimg.cc/rscQhLcs/Roos-Tarpals.jpg",
     "films": ["4"]
   },
   {
@@ -478,6 +513,7 @@
     "birth_year": "unknown",
     "gender": "male",
     "homeworld": "8",
+    "image":"https://i.postimg.cc/Z52w0gg0/Rugor-Nass.jpg",
     "films": ["4"]
   },
   {
@@ -491,6 +527,7 @@
     "birth_year": "unknown",
     "gender": "male",
     "homeworld": "8",
+    "image":"https://i.postimg.cc/k49vLtDv/RicOlie.jpg",
     "films": ["4"]
   },
   {
@@ -504,6 +541,7 @@
     "birth_year": "unknown",
     "gender": "male",
     "homeworld": "34",
+    "image":"https://i.postimg.cc/vZwWjV42/WattoHS.webp",
     "films": ["4", "5"]
   },
   {
@@ -517,6 +555,7 @@
     "birth_year": "unknown",
     "gender": "male",
     "homeworld": "35",
+    "image":"https://i.postimg.cc/Df1hKS54/Sebulba.jpg",
     "films": ["4"]
   },
   {
@@ -530,6 +569,7 @@
     "birth_year": "62BBY",
     "gender": "male",
     "homeworld": "8",
+    "image":"https://i.postimg.cc/fRD2rFMy/Panaka2.webp",
     "films": ["4"]
   },
   {
@@ -543,6 +583,7 @@
     "birth_year": "72BBY",
     "gender": "female",
     "homeworld": "1",
+    "image":"https://i.postimg.cc/prTm1Ppx/Shmi-skywalker.webp",
     "films": ["4", "5"]
   },
   {
@@ -556,6 +597,7 @@
     "birth_year": "54BBY",
     "gender": "male",
     "homeworld": "36",
+    "images":"https://i.postimg.cc/PxBQ013f/Darth-Maul.jpg",
     "films": ["4"]
   },
   {

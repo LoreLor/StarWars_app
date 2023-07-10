@@ -2,6 +2,8 @@ const axios = require('axios')
 
 module.exports = {
     list: async () => {
+        // const response = await axios.get('http://db:7004/Character')
+        // return response.data
         return await axios.get('http://db:7004/Character')
     },
 
