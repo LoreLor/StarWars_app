@@ -9,8 +9,9 @@
     "eye_color": "blue",
     "birth_year": "19BBY",
     "gender": "male",
+    "species": "human",
     "homeworld": "1",
-    "image":"https://i.postimg.cc/dtKJHZy1/lukek.webp",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/2/20/LukeTLJ.jpg",
     "films": ["1", "2", "3", "6"]
   },
   {
@@ -22,9 +23,10 @@
     "skin_color": "gold",
     "eye_color": "yellow",
     "birth_year": "112BBY",
-    "gender": "n/a",
+    "gender": "male",
+    "species": "droid",
     "homeworld": "1",
-    "image":"https://i.postimg.cc/J4cM97NQ/c-3po.webp",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/3/3f/C-3PO_TLJ_Card_Trader_Award_Card.png",
     "films": ["1", "2", "3", "4", "5", "6"]
   },
   {
@@ -36,9 +38,10 @@
     "skin_color": "white, blue",
     "eye_color": "red",
     "birth_year": "33BBY",
-    "gender": "n/a",
+    "gender": "male",
+    "species": "droid",
     "homeworld": "8",
-    "image":"https://i.postimg.cc/9X9WYYzK/R2.jpg",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/e/eb/ArtooTFA2-Fathead.png",
     "films": ["1", "2", "3", "4", "5", "6"]
   },
   {
@@ -51,8 +54,9 @@
     "eye_color": "yellow",
     "birth_year": "41.9BBY",
     "gender": "male",
+    "species": "human",
     "homeworld": "1",
-    "image":"https://i.postimg.cc/MZ3JgWpC/darth-vader.jpg",
+    "image": "https://vignette.wikia.nocookie.net/fr.starwars/images/3/32/Dark_Vador.jpg",
     "films": ["1", "2", "3", "6"]
   },
   {
@@ -65,8 +69,9 @@
     "eye_color": "brown",
     "birth_year": "19BBY",
     "gender": "female",
+    "species": "human",
     "homeworld": "2",
-    "image":"https://i.postimg.cc/hP4NrhRF/Leia-Organa.jpg",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/f/fc/Leia_Organa_TLJ.png",
     "films": ["1", "2", "3", "6"]
   },
   {
@@ -79,8 +84,10 @@
     "eye_color": "blue",
     "birth_year": "52BBY",
     "gender": "male",
+    "species": "human",
     "homeworld": "1",
-    "image":"https://i.postimg.cc/brf2Qd64/Owen-Lars.webp",
+    "wiki": "http://starwars.wikia.com/wiki/Owen_Lars",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/e/eb/OwenCardTrader.png",
     "films": ["1", "5", "6"]
   },
   {
@@ -93,8 +100,9 @@
     "eye_color": "blue",
     "birth_year": "47BBY",
     "gender": "female",
+    "species": "human",
     "homeworld": "1",
-    "image":"https://i.postimg.cc/1XpPq3TC/Beru-Whitesun-Lars.jpg",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/c/cc/BeruCardTrader.png",
     "films": ["1", "5", "6"]
   },
   {
@@ -102,13 +110,14 @@
     "name": "R5-D4",
     "height": "97",
     "mass": "32",
-    "hair_color": "n/a",
+    "hair_color": "male",
     "skin_color": "white, red",
     "eye_color": "red",
     "birth_year": "unknown",
-    "gender": "n/a",
+    "gender": "male",
+    "species": "droid",
     "homeworld": "1",
-    "image":"https://i.postimg.cc/NjxjcTnN/R5D4.webp",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/c/cb/R5-D4_Sideshow.png",
     "films": ["1"]
   },
   {
@@ -117,12 +126,13 @@
     "height": "183",
     "mass": "84",
     "hair_color": "black",
-    "skin_color": "light",
+    "skin_color": "hazel",
     "eye_color": "brown",
     "birth_year": "24BBY",
     "gender": "male",
+    "species": "human",
     "homeworld": "1",
-    "image":"https://i.postimg.cc/fLycXMXN/biggs-darklighter.webp",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/0/00/BiggsHS-ANH.png",
     "films": ["1"]
   },
   {
@@ -135,8 +145,9 @@
     "eye_color": "blue-gray",
     "birth_year": "57BBY",
     "gender": "male",
+    "species": "human",
     "homeworld": "20",
-    "image":"https://i.postimg.cc/W37ypGr4/Obi-Wan-Kenobi.webp",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4e/ObiWanHS-SWE.jpg",
     "films": ["1", "2", "3", "4", "5", "6"]
   },
   {
@@ -149,8 +160,9 @@
     "eye_color": "blue",
     "birth_year": "41.9BBY",
     "gender": "male",
+    "species": "human",
     "homeworld": "1",
-    "image":"https://i.postimg.cc/kg5QHk7G/Anakin-Skywalker.webp",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/6/6f/Anakin_Skywalker_RotS.png",
     "films": ["4", "5", "6"]
   },
   {
@@ -163,8 +175,9 @@
     "eye_color": "blue",
     "birth_year": "64BBY",
     "gender": "male",
+    "species": "human",
     "homeworld": "21",
-    "image":"https://i.postimg.cc/RVXGPDP0/Wilhuff-Tarkin.jpg",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/c/c1/Tarkininfobox.jpg",
     "films": ["1", "6"]
   },
   {
@@ -177,8 +190,9 @@
     "eye_color": "blue",
     "birth_year": "200BBY",
     "gender": "male",
+    "species": "wookiee",
     "homeworld": "14",
-    "image":"https://i.postimg.cc/brkzLn0x/Chewbacca.jpg",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/4/48/Chewbacca_TLJ.png",
     "films": ["1", "2", "3", "6"]
   },
   {
@@ -188,11 +202,12 @@
     "mass": "80",
     "hair_color": "brown",
     "skin_color": "fair",
-    "eye_color": "brown",
+    "eye_color": "hazel",
     "birth_year": "29BBY",
     "gender": "male",
+    "species": "human",
     "homeworld": "22",
-    "image":"https://i.postimg.cc/J7QqTzK8/Han-Solo.webp",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/e/e2/TFAHanSolo.png",
     "films": ["1", "2", "3"]
   },
   {
@@ -205,8 +220,9 @@
     "eye_color": "black",
     "birth_year": "44BBY",
     "gender": "male",
+    "species": "rodian",
     "homeworld": "23",
-    "image":"https://i.postimg.cc/fL836yLt/Greedo.jpg",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/c/c6/Greedo.jpg",
     "films": ["1"]
   },
   {
@@ -219,8 +235,9 @@
     "eye_color": "orange",
     "birth_year": "600BBY",
     "gender": "hermaphrodite",
+    "species": "hutt",
     "homeworld": "24",
-    "image":"https://i.postimg.cc/VsZ9vqQV/Jabba-Desilijic-Tiure.jpg",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/7/7f/Jabba_SWSB.png",
     "films": ["1", "3", "4"]
   },
   {

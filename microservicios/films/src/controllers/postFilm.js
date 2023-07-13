@@ -5,5 +5,5 @@ module.exports = async (req, res) => {
     const dataBody = req.body
 
     const newFilm = await Films.create(dataBody)
-    response(res, 201, newFilm.data)
+    response(res, 201, newFilm)
 }

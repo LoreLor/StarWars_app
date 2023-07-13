@@ -1,3 +1,3 @@
 module.exports = {
-    characterValidation: require('./characterValidation')
+    filmValidation: require('./filmValidation')
 }

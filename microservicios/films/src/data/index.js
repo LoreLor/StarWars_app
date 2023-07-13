@@ -2,15 +2,18 @@ const axios = require('axios')
 
 module.exports = {
     list: async () => {
-        return await axios.get('http://db:7004/Film')
+        const films = await axios.get('http://db:7004/Film')
+        return films.data
     },
 
-    getById: async (_id) => {
-        return await axios.get(`http://db:7004/Film/${_id}`)
+    getById: async (id) => {
+        const film = await axios.get(`http://db:7004/Film/${id}`)
+        return film.data
     },
 
-    create: async (body) => {
-        return await axios.post('http://db:7004/Film', body)
+    create: async (dataBody) => {
+        const newFilm = await axios.post('http://db:7004/Film', dataBody)
+        return newFilm.data
         // throw new Error('Film not found')
     }
 }

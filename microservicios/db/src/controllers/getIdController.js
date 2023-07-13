@@ -5,5 +5,5 @@ module.exports = async(req, res) => {
     const { model, id} = req.params;
 
     const result = await allModels[model].get(id)
-    res.status(200).send(result)
+    response(res, 200, result);
 }

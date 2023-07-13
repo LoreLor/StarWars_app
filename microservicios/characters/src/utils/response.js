@@ -1,6 +1,3 @@
 module.exports = (res, statusCode, data) => {
-    res.status(statusCode).send({
-        error: false,
-        data
-    })
+    res.status(statusCode).send(data)
 }

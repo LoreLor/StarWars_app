@@ -2,17 +2,17 @@ const axios = require('axios')
 
 module.exports = {
     list: async () => {
-        // const response = await axios.get('http://db:7004/Character')
-        // return response.data
-        return await axios.get('http://db:7004/Character')
+        const characters = await axios.get('http://db:7004/Character')
+        return characters.data
     },
 
-    getById: async (_id) => {
-        return await axios.get(`http://db:7004/Character/${_id}`)
+    getById: async (id) => {
+        const character = await axios.get(`http://db:7004/Character/${id}`)
+        return character.data
     },
 
-    create: async (body) => {
-        return await axios.post('http://db:7004/Character', body)
-        // throw new Error('Character not found')
+    create: async (dataBody) => {
+        const newCharacter = await axios.post('http://db:7004/Character', dataBody)
+        return newCharacter.data
     }
 }

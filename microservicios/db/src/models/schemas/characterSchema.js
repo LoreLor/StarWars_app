@@ -16,10 +16,12 @@ const characterSchema = new Schema({
         type: String,
         enum: ["male", "female", "n/a"],
     },
+    species: String,
     homeworld: {  // referencia al planeta de origen
         type: String,
         ref: "Planet"
     },
+    image: String,
     films: [{  // refiere a las peliculas en las actuó
         type: String,
         ref: "Film"
@@ -32,8 +34,8 @@ characterSchema.statics.list = async function(){
     .populate("films", ["_id", "title"])
 }
 
-characterSchema.statics.get = async function(_id){
-    return await this.findById(_id)
+characterSchema.statics.get = async function(id){
+    return await this.findById(id)
     .populate("homeworld", ["_id", "name"])
     .populate("films", ["_id", "title"])
 }

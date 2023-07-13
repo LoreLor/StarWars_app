@@ -6,32 +6,32 @@ services:
         restart: always
         build: ./gateway2
         ports:
-            -"7000:7000"
+            - "7000:7000"
 
     characters:
         container_name: characters
         restart: always
         build: ./characters
         ports:
-            -"7001:7001"
+            - "7001:7001"
 
     films:
         container_name: films
         restart: always
         build: ./films
         ports:
-            -"7002:7002"
+            - "7002:7002"
 
     planets:
         container_name: planets
         restart: always
         build: ./planets
         ports:
-            -"7002:7002"
+            - "7002:7002"
 
     db:
         container_name: db
         restart: always
         build: ./db
         ports:
-            -"7004:7004"
+            - "7004:7004"

@@ -1,9 +1,11 @@
 const express = require('express')
 const morgan = require('morgan')
 const { createProxyMiddleware } = require('http-proxy-middleware')
+require('dotenv').config()
+
 
 const app = express()
-const PORT = 7000
+const PORT = process.env.PORT
 
 app.use(express.json())
 app.use(morgan('dev'))

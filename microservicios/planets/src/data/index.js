@@ -2,13 +2,18 @@ const axios = require('axios')
 
 module.exports = {
     list: async () => {
-        return await axios.get('http://db:7004/Planet')
+        const planets = await axios.get('http://db:7004/Planet')
+        return planets.data
     },
     getById: async (id) => {
-        return await axios.get(`http://db:7004/Planet/${id}`)
+        const planet = await axios.get(`http://db:7004/Planet/${id}`)
+        return planet.data
     },
-    create: async (dataBody) => {
-        return await axios.post('http://db:7004/Planet', dataBody)
+    create: async () => {
+        // eslint-disable-next-line no-undef
+        const dataBody = req.body
+        const newPlanet = await axios.post('http://db:7004/Planet', dataBody)
+        return newPlanet.data
         // throw new Error('Ocurred some error with your post')
     }
 }

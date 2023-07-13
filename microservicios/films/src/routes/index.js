@@ -5,6 +5,6 @@ const router = Router()
 
 router.get('/', controllers.getFilms)
 router.get('/:id', controllers.getFilmById)
-router.post('/', middleware.characterValidation, controllers.postFilm)
+router.post('/', middleware.filmValidation, controllers.postFilm)
 
 module.exports = router
