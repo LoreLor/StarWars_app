@@ -35,3 +35,10 @@ services:
         build: ./db
         ports:
             - "7004:7004"
+
+    client:
+        container_name: client
+        restart: always
+        build: ./client
+        ports:
+            - "5173:5173"
