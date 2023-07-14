@@ -4,35 +4,35 @@ services:
     gateway2:
         container_name: gateway2
         restart: always
-        build: ./gateway2
+        build: ./microservicios/gateway2
         ports:
             - "7000:7000"
 
     characters:
         container_name: characters
         restart: always
-        build: ./characters
+        build: ./microservicios/characters
         ports:
             - "7001:7001"
 
     films:
         container_name: films
         restart: always
-        build: ./films
+        build: ./microservicios/films
         ports:
             - "7002:7002"
 
     planets:
         container_name: planets
         restart: always
-        build: ./planets
+        build: ./microservicios/planets
         ports:
             - "7003:7003"
 
     db:
         container_name: db
         restart: always
-        build: ./db
+        build:  ./microservicios/db
         ports:
             - "7004:7004"
 
