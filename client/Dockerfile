@@ -4,10 +4,10 @@ WORKDIR /app
 
 COPY package*.json ./
 
-RUN npm run build
+RUN npm install
 
 COPY . .
 
 EXPOSE 5173
 
-CMD ["npm", "start"]
+CMD ["npm", "build"]
