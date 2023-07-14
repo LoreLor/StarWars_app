@@ -38,7 +38,6 @@ services:
 
     client:
         container_name: client
-        entrypoint: /bin/bash
         restart: always
         build: ./client
         ports:
