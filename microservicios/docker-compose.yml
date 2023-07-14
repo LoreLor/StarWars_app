@@ -27,7 +27,7 @@ services:
         restart: always
         build: ./planets
         ports:
-            - "7002:7002"
+            - "7003:7003"
 
     db:
         container_name: db
