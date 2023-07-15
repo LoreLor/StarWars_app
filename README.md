@@ -33,5 +33,5 @@ _Permitirá realizar busquedas por el nombre de cada una de las entidades. Filtr
 
 ### Modelos
 
-_Se utiliza base de datos NoSQL con ORM Mongoose, en este caso MongoDB, con clúster alojado en MongoDB Atlas._
+_Se utiliza base de datos NoSQL, en este caso MongoDB y ORM Mongoose, con clúster alojado en MongoDB Atlas._
 _Las entidades para este proyecto son: Character, Film y Planet._
