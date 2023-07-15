@@ -28,10 +28,10 @@
 
 ### Sobre el Proyecto
 
-_Expone listados de algunos personajes, planetas y films en los cuales intervinieron los personajes de Star Wars. 
-_Permitirá realizar busquedas por el nombre de cada una de las entidades. Filtrado de personajes segun el planeta de origen.
+_Expone listados de algunos personajes, planetas y films en los cuales intervinieron los personajes de Star Wars. _
+_Permitirá realizar busquedas por el nombre de cada una de las entidades. Filtrado de personajes segun el planeta de origen._
 
 ### Modelos
 
-_Se utiliza base de datos NoSQL con ORM Mongoose, en este caso MongoDB, con clúster alojado en MongoDB Atlas.
-_Las entidades para este proyecto son: Character, Film y Planet.
+_Se utiliza base de datos NoSQL con ORM Mongoose, en este caso MongoDB, con clúster alojado en MongoDB Atlas._
+_Las entidades para este proyecto son: Character, Film y Planet._
