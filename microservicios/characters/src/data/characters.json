@@ -250,7 +250,9 @@
     "eye_color": "hazel",
     "birth_year": "21BBY",
     "gender": "male",
+    "species": "human",
     "homeworld": "22",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/6/60/WedgeHelmetless-ROTJHD.jpg",
     "films": ["1", "2", "3"]
   },
   {
@@ -263,8 +265,9 @@
     "eye_color": "blue",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "human",
     "homeworld": "26",
-    "image":"https://i.postimg.cc/9Qnprs4K/Jek-Tono-Porkins.jpg",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/e/eb/JekPorkins-DB.png",
     "films": ["1"]
   },
   {
@@ -277,8 +280,9 @@
     "eye_color": "brown",
     "birth_year": "896BBY",
     "gender": "male",
+    "species": "yoda's species",
     "homeworld": "28",
-    "image":"https://i.postimg.cc/bvrX1Xwh/Yoda.jpg",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d6/Yoda_SWSB.png",
     "films": ["2", "3", "4", "5", "6"]
   },
   {
@@ -291,8 +295,9 @@
     "eye_color": "yellow",
     "birth_year": "82BBY",
     "gender": "male",
+    "species": "human",
     "homeworld": "8",
-    "image":"https://i.postimg.cc/9f202YVS/Palpatine.webp",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d8/Emperor_Sidious.png",
     "films": ["2", "3", "4", "5", "6"]
   },
   {
@@ -305,8 +310,9 @@
     "eye_color": "brown",
     "birth_year": "31.5BBY",
     "gender": "male",
+    "species": "human",
     "homeworld": "10",
-    "image":"https://i.postimg.cc/vmbwPPLP/Boba-Fett.jpg",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/7/79/Boba_Fett_HS_Fathead.png",
     "films": ["2", "3", "5"]
   },
   {
@@ -319,8 +325,9 @@
     "eye_color": "red",
     "birth_year": "15BBY",
     "gender": "none",
+    "species": "droid",
     "homeworld": "28",
-    "image":"https://i.postimg.cc/QxySfS1p/IG-88.jpg",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/f/f2/IG-88.png",
     "films": ["2"]
   },
   {
@@ -333,8 +340,9 @@
     "eye_color": "red",
     "birth_year": "53BBY",
     "gender": "male",
+    "species": "trandoshan",
     "homeworld": "29",
-    "image":"https://i.postimg.cc/dQW4xZ1F/Bossk.jpg",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/1/1d/Bossk.png",
     "films": ["2"]
   },
   {
@@ -347,8 +355,9 @@
     "eye_color": "brown",
     "birth_year": "31BBY",
     "gender": "male",
+    "species": "human",
     "homeworld": "30",
-    "image":"https://i.postimg.cc/28qHPdVY/Lando-Calrissian.jpg",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/8/8f/Lando_ROTJ.png",
     "films": ["2", "3"]
   },
   {
@@ -361,8 +370,9 @@
     "eye_color": "blue",
     "birth_year": "37BBY",
     "gender": "male",
+    "species": "human",
     "homeworld": "6",
-    "image":"https://i.postimg.cc/xdY7Lkgz/lobot.jpg",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/9/96/SWE_Lobot.jpg",
     "films": ["2"]
   },
   {
@@ -375,8 +385,9 @@
     "eye_color": "orange",
     "birth_year": "41BBY",
     "gender": "male",
+    "species": "mon calamari",
     "homeworld": "31",
-    "image":"https://i.postimg.cc/1RGL31St/Ackbar.webp",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/2/29/Admiral_Ackbar_RH.png",
     "films": ["3"]
   },
   {
@@ -389,8 +400,9 @@
     "eye_color": "blue",
     "birth_year": "48BBY",
     "gender": "female",
+    "species": "human",
     "homeworld": "32",
-    "image":"https://i.postimg.cc/NFvSxBhK/Mon-Mothma.jpg",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/b/b7/MP-MonMothma.png",
     "films": ["3"]
   },
   {
@@ -403,8 +415,9 @@
     "eye_color": "brown",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "human",
     "homeworld": "28",
-    "image":"https://i.postimg.cc/N0qp2bR4/Arvel-crynyd.webp",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/d/de/Arvel-crynyd.jpg",
     "films": ["3"]
   },
   {
@@ -417,8 +430,9 @@
     "eye_color": "brown",
     "birth_year": "8BBY",
     "gender": "male",
+    "species": "ewok",
     "homeworld": "7",
-    "image":"https://i.postimg.cc/L4Qk1RPD/Wicket-Rot-J.webp",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4f/Wicket_RotJ.png",
     "films": ["3"]
   },
   {
@@ -431,8 +445,9 @@
     "eye_color": "black",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "sullustan",
     "homeworld": "33",
-    "image":"https://i.postimg.cc/MT3vL6bp/Nien-Nunb-white-bg.webp",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/1/14/Old_nien_nunb_-_profile.png",
     "films": ["3"]
   },
   {
@@ -445,8 +460,9 @@
     "eye_color": "blue",
     "birth_year": "92BBY",
     "gender": "male",
+    "species": "human",
     "homeworld": "28",
-    "image":"https://i.postimg.cc/50DF09Hk/QuiGon.webp",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/f/f6/Qui-Gon_Jinn_Headshot_TPM.jpg",
     "films": ["4"]
   },
   {
@@ -459,8 +475,9 @@
     "eye_color": "red",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "neimoidian",
     "homeworld": "18",
-    "image":"https://i.postimg.cc/wMnqLFD6/Nute3.webp",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/f/fd/Nute_Gunray_SWE.png",
     "films": ["4", "5", "6"]
   },
   {
@@ -473,8 +490,9 @@
     "eye_color": "blue",
     "birth_year": "91BBY",
     "gender": "male",
+    "species": "human",
     "homeworld": "9",
-    "image":"https://i.postimg.cc/fTz9Bb4m/Finis-Valorum.jpg",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/5/51/ValorumPortrait-SWE.png",
     "films": ["4"]
   },
   {
@@ -487,8 +505,9 @@
     "eye_color": "brown",
     "birth_year": "46BBY",
     "gender": "female",
+    "species": "human",
     "homeworld": "8",
-    "image":"https://i.postimg.cc/m27TzYpS/Padm-Amidala.jpg",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/b/b2/Padmegreenscrshot.jpg",
     "films": ["4", "5", "6"]
   },
   {
@@ -501,8 +520,9 @@
     "eye_color": "orange",
     "birth_year": "52BBY",
     "gender": "male",
+    "species": "gungan",
     "homeworld": "8",
-    "image":"https://i.postimg.cc/SRWHsrQ2/jar-jar-new.jpg",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d2/Jar_Jar_aotc.jpg",
     "films": ["4", "5"]
   },
   {
@@ -515,8 +535,9 @@
     "eye_color": "orange",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "gungan",
     "homeworld": "8",
-    "image":"https://i.postimg.cc/rscQhLcs/Roos-Tarpals.jpg",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/c/ca/TarpalsHS.jpg",
     "films": ["4"]
   },
   {
@@ -529,8 +550,9 @@
     "eye_color": "orange",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "gungan",
     "homeworld": "8",
-    "image":"https://i.postimg.cc/Z52w0gg0/Rugor-Nass.jpg",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d8/Bossnass.jpg",
     "films": ["4"]
   },
   {
@@ -543,8 +565,9 @@
     "eye_color": "blue",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "human",
     "homeworld": "8",
-    "image":"https://i.postimg.cc/k49vLtDv/RicOlie.jpg",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4c/RicOlieHS-SWE.png",
     "films": ["4"]
   },
   {
@@ -557,8 +580,9 @@
     "eye_color": "yellow",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "toydarian",
     "homeworld": "34",
-    "image":"https://i.postimg.cc/vZwWjV42/WattoHS.webp",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/e/eb/WattoHS.jpg",
     "films": ["4", "5"]
   },
   {
@@ -571,8 +595,9 @@
     "eye_color": "orange",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "dug",
     "homeworld": "35",
-    "image":"https://i.postimg.cc/Df1hKS54/Sebulba.jpg",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/1/14/Sebulba_Headshot_Closeup.png",
     "films": ["4"]
   },
   {
@@ -585,8 +610,9 @@
     "eye_color": "brown",
     "birth_year": "62BBY",
     "gender": "male",
+    "species": "human",
     "homeworld": "8",
-    "image":"https://i.postimg.cc/fRD2rFMy/Panaka2.webp",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/7/72/PanakaHS-TPM.png",
     "films": ["4"]
   },
   {
@@ -599,8 +625,9 @@
     "eye_color": "brown",
     "birth_year": "72BBY",
     "gender": "female",
+    "species": "human",
     "homeworld": "1",
-    "image":"https://i.postimg.cc/prTm1Ppx/Shmi-skywalker.webp",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/a/ad/ShmiSkywalkerDatabank_%28Repurposed%29.jpeg",
     "films": ["4", "5"]
   },
   {
@@ -613,8 +640,9 @@
     "eye_color": "yellow",
     "birth_year": "54BBY",
     "gender": "male",
+    "species": "dathomirian zabrak",
     "homeworld": "36",
-    "images":"https://i.postimg.cc/PxBQ013f/Darth-Maul.jpg",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/5/50/Darth_Maul_profile.png",
     "films": ["4"]
   },
   {
@@ -627,7 +655,9 @@
     "eye_color": "pink",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "twi'lek",
     "homeworld": "37",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/3/33/BibFortunaHS-ROTJ.png",
     "films": ["3"]
   },
   {
@@ -640,7 +670,9 @@
     "eye_color": "hazel",
     "birth_year": "48BBY",
     "gender": "female",
+    "species": "twi'lek",
     "homeworld": "37",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/f/f9/Aayla.jpg",
     "films": ["4", "5", "6"]
   },
   {
@@ -653,7 +685,9 @@
     "eye_color": "unknown",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "aleena",
     "homeworld": "38",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/6/68/RattsHS.jpg",
     "films": ["4"]
   },
   {
@@ -666,7 +700,9 @@
     "eye_color": "yellow",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "vulptereen",
     "homeworld": "39",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/7/73/Dud_Bolt_Podracer_Cockpit.png",
     "films": ["4"]
   },
   {
@@ -679,7 +715,9 @@
     "eye_color": "black",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "xexto",
     "homeworld": "40",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/5/57/GasganoHS-SWE.jpg",
     "films": ["4"]
   },
   {
@@ -692,7 +730,9 @@
     "eye_color": "orange",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "toong",
     "homeworld": "41",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/7/7f/Cropped_Quadinaros.png",
     "films": ["4"]
   },
   {
@@ -705,7 +745,9 @@
     "eye_color": "brown",
     "birth_year": "72BBY",
     "gender": "male",
+    "species": "human",
     "homeworld": "42",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/5/58/Mace_ROTS.png",
     "films": ["4", "5", "6"]
   },
   {
@@ -718,7 +760,9 @@
     "eye_color": "yellow",
     "birth_year": "92BBY",
     "gender": "male",
+    "species": "cerean",
     "homeworld": "43",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/9/9e/KiAdiMundi.jpg",
     "films": ["4", "5", "6"]
   },
   {
@@ -731,7 +775,9 @@
     "eye_color": "black",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "nautolan",
     "homeworld": "44",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4c/Kit_Fisto_Card_Trader.png",
     "films": ["4", "5", "6"]
   },
   {
@@ -744,7 +790,9 @@
     "eye_color": "brown",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "iridonian zabrak",
     "homeworld": "45",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4e/EethKothCardTrader.png",
     "films": ["4", "6"]
   },
   {
@@ -757,7 +805,9 @@
     "eye_color": "blue",
     "birth_year": "unknown",
     "gender": "female",
+    "species": "tholothian",
     "homeworld": "9",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/b/ba/AdiGallia.jpg",
     "films": ["4", "6"]
   },
   {
@@ -770,7 +820,9 @@
     "eye_color": "orange",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "iktotchi",
     "homeworld": "47",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/6/68/Saesee_Tiin_Card_Trader.jpg",
     "films": ["4", "6"]
   },
   {
@@ -783,7 +835,9 @@
     "eye_color": "yellow",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "quermian",
     "homeworld": "48",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/6/66/Yarael_Poof_Canon.jpeg",
     "films": ["4"]
   },
   {
@@ -796,7 +850,9 @@
     "eye_color": "black",
     "birth_year": "22BBY",
     "gender": "male",
+    "species": "kel dor",
     "homeworld": "49",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/b/bf/PloKoonCardTrader.png",
     "films": ["4", "5", "6"]
   },
   {
@@ -809,7 +865,9 @@
     "eye_color": "blue",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "chagrian",
     "homeworld": "50",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/3/37/Mas_Amedda_SWCT.png",
     "films": ["4", "5"]
   },
   {
@@ -822,7 +880,9 @@
     "eye_color": "brown",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "human",
     "homeworld": "8",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/5/52/Gregar_Typho.jpg",
     "films": ["5"]
   },
   {
@@ -835,7 +895,9 @@
     "eye_color": "brown",
     "birth_year": "unknown",
     "gender": "female",
+    "species": "human",
     "homeworld": "8",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/b/b6/Cord%C3%A9_-_SW_Card_Trader.png",
     "films": ["5"]
   },
   {
@@ -848,7 +910,9 @@
     "eye_color": "blue",
     "birth_year": "82BBY",
     "gender": "male",
+    "species": "human",
     "homeworld": "1",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/3/36/ClieggLarsHS-SWE.jpg",
     "films": ["5"]
   },
   {
@@ -861,7 +925,9 @@
     "eye_color": "yellow",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "geonosian",
     "homeworld": "11",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/9/93/Poggle_the_lesser_-_sw_card_trader.png",
     "films": ["5", "6"]
   },
   {
@@ -874,7 +940,9 @@
     "eye_color": "blue",
     "birth_year": "58BBY",
     "gender": "female",
+    "species": "mirialan",
     "homeworld": "51",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/2/21/LuminaraHS-SWE_%28new%29.png",
     "films": ["5", "6"]
   },
   {
@@ -887,7 +955,9 @@
     "eye_color": "blue",
     "birth_year": "40BBY",
     "gender": "female",
+    "species": "mirialan",
     "homeworld": "51",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/3/37/Barrisprofile2.jpg",
     "films": ["5"]
   },
   {
@@ -900,7 +970,9 @@
     "eye_color": "brown",
     "birth_year": "unknown",
     "gender": "female",
+    "species": "human",
     "homeworld": "8",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/1/18/Dormesenate.jpg",
     "films": ["5"]
   },
   {
@@ -913,7 +985,9 @@
     "eye_color": "brown",
     "birth_year": "102BBY",
     "gender": "male",
+    "species": "human",
     "homeworld": "52",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/b/b8/Dooku_Headshot.jpg",
     "films": ["5", "6"]
   },
   {
@@ -926,7 +1000,9 @@
     "eye_color": "brown",
     "birth_year": "67BBY",
     "gender": "male",
+    "species": "human",
     "homeworld": "2",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/5/50/Bail_Organa_Mug.jpg",
     "films": ["5", "6"]
   },
   {
@@ -939,7 +1015,9 @@
     "eye_color": "brown",
     "birth_year": "66BBY",
     "gender": "male",
+    "species": "human",
     "homeworld": "53",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/5/56/JangoInfobox.png",
     "films": ["5"]
   },
   {
@@ -952,7 +1030,9 @@
     "eye_color": "yellow",
     "birth_year": "unknown",
     "gender": "female",
+    "species": "clawdite",
     "homeworld": "54",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/7/7d/Clawdite.jpg",
     "films": ["5"]
   },
   {
@@ -965,7 +1045,9 @@
     "eye_color": "yellow",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "besalisk",
     "homeworld": "55",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/6/6c/DexterHS-SWE.jpg",
     "films": ["5"]
   },
   {
@@ -978,7 +1060,9 @@
     "eye_color": "black",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "kaminoan",
     "homeworld": "10",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/7/73/Lama_Su.jpg",
     "films": ["5"]
   },
   {
@@ -991,7 +1075,9 @@
     "eye_color": "black",
     "birth_year": "unknown",
     "gender": "female",
+    "species": "kaminoan",
     "homeworld": "10",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/9/9c/TaunWe.jpg",
     "films": ["5"]
   },
   {
@@ -1004,7 +1090,9 @@
     "eye_color": "blue",
     "birth_year": "unknown",
     "gender": "female",
+    "species": "human",
     "homeworld": "9",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/1/15/Jocasta_Nu_SWE.png",
     "films": ["5"]
   },
   {
@@ -1017,7 +1105,9 @@
     "eye_color": "red, blue",
     "birth_year": "unknown",
     "gender": "female",
+    "species": "droid",
     "homeworld": "28",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/6/6b/R4-P17.jpg",
     "films": ["5", "6"]
   },
   {
@@ -1030,7 +1120,9 @@
     "eye_color": "unknown",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "skakoan",
     "homeworld": "56",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/a/a5/Wat_Tambor.png",
     "films": ["5"]
   },
   {
@@ -1043,7 +1135,9 @@
     "eye_color": "gold",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "muun",
     "homeworld": "57",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/6/6f/SanHill_hs.jpg",
     "films": ["5"]
   },
   {
@@ -1056,7 +1150,9 @@
     "eye_color": "black",
     "birth_year": "unknown",
     "gender": "female",
+    "species": "togruta",
     "homeworld": "58",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/2/20/Shaak_Ti_closeup-SWE.png",
     "films": ["5", "6"]
   },
   {
@@ -1069,7 +1165,9 @@
     "eye_color": "green, yellow",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "kaleesh",
     "homeworld": "59",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/d/de/Grievoushead.jpg",
     "films": ["6"]
   },
   {
@@ -1082,7 +1180,9 @@
     "eye_color": "blue",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "wookiee",
     "homeworld": "14",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/3/37/Tarfful_RotS.png",
     "films": ["6"]
   },
   {
@@ -1095,7 +1195,9 @@
     "eye_color": "brown",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "human",
     "homeworld": "2",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/8/80/Raymus_card_trader.png",
     "films": ["1", "6"]
   },
   {
@@ -1108,7 +1210,9 @@
     "eye_color": "white",
     "birth_year": "unknown",
     "gender": "female",
+    "species": "umbaran",
     "homeworld": "60",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/e/ec/SlyMooreIsWatchingYouPoop-OfficialPix.jpg",
     "films": ["5", "6"]
   },
   {
@@ -1121,7 +1225,9 @@
     "eye_color": "black",
     "birth_year": "unknown",
     "gender": "male",
+    "species": "pau'an",
     "homeworld": "12",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/4/43/Tion_Medon.jpg",
     "films": ["6"]
   }
 ]
