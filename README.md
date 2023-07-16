@@ -4,9 +4,7 @@
     <img src='./client/src/assets/banner.png' alt='banner'>
 </figure>
 
-
 # Objetivos teóricos a desarrollar
-
 ## Microservicios
 
 * Facilita la escalabilidad y la hace más eficiente
@@ -20,7 +18,6 @@
 * Hace mucho más sencillo el desarrollo paralelo de las distintas funcionalidades de la aplicación y, además, permite que este desarrollo sea independiente.
 
 * Permite que los despliegues sean independientes, lo que aumenta la tolerabilidad a fallos graves.
-
 
 ## Arquitectura de Microservicios:
 
@@ -42,12 +39,10 @@
    * Gestion de Contenedores: Docker-Compose
    * Despliegue: VM de Google Cloud Platform
 
-
 ### Sobre el Proyecto
 
 _Expone listados de algunos personajes, planetas y films en los cuales intervinieron los personajes de Star Wars._
 _Permitirá realizar busquedas por el nombre de cada una de las entidades. Filtrado de personajes segun el planeta de origen._
-
 ### Modelos
 
 _Se utiliza base de datos NoSQL, en este caso MongoDB y ORM Mongoose, con clúster alojado en MongoDB Atlas._
@@ -66,14 +61,11 @@ _Cada modelo incluye sus métodos estaticos._
 
 - Base de datos : MongoDB - Mongo DB Atlas.
 
-
 <p align="center" p=10>
     <img src='./client/src/assets/estructura.png' alt='estructura' />
 </p>
 
 #### Similares caracteristicas para los modelos: "films" y "planets.
-
-
 ### Gateway
 
 - Descripción : Servicio encargado de centralizar las llamadas a los demás servicios a través de una URI que hace de entrada a esas peticiones.
@@ -89,7 +81,6 @@ _Estructura base del Gateway:_
 <p align="center" p=10>
     <img src='./client/src/assets/gateway.png' alt='gateway' />
 </p>
-
 
 ## Contenedores
 ### Docker - Creacion y Ejecución de imágines
@@ -119,10 +110,45 @@ _Es una herramienta que facilita la orquestación y gestión de aplicaciones bas
 
 _Este archivo contendrá la direccion de todas las imagenes que queremos gestionar. (characters, films, planets, gateway, database, etc)._
 
-2. Creacion del contenedor: docker-compose build
+2. Creacion del contenedor: 
+        - docker-compose build
 
-3. Levantar el contenedor: docker-compose up
+3. Levantar el contenedor: 
+        - docker-compose up
 
-4. Detener y eliminar el contenedor: docker-compose down
+4. Detener y eliminar el contenedor: 
+        - docker-compose down
 
-#### 
+## Despliegue en Google Cloud Platform
+
+1. Crear Virtual Machine 
+
+2. Habilitar servicio
+
+3. Crear instancia
+
+4. Abrir consola, actualizar e instalar dependencias
+        - sudo apt update
+        - sudo apt install git
+        - sudo apt install docker.io
+        - sudo apt install docker-compose
+
+5. Genero una key ssh para vincular la VM con el repositorio en github: 
+        - ssh-keygen -t ed25519 -C "tu email de github" 
+
+6. Ver y copiar key: 
+        - cat ~/.ssh/id_ed25519.pub
+
+7. Pegar SSH en Key de github.
+
+8. Clonar el repo en la VM.
+
+9. Crear la imagen: 
+        - sudo docker-compose build
+
+10. Levantar el contenedor: 
+        - sudo docker-compose up 
+
+<p align="center" p=10>
+    <img src='./client/src/assets/vm_google.png' alt='dockerfile' />
+</p>
