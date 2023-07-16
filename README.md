@@ -1,7 +1,7 @@
 # StarWars_app - UPSKILLING
-<picture>
-<img align="center" src='./client/src/assets/banner.png' alt='banner'>
-</picture>
+<p style="text-align:center">
+    <img src='./client/src/assets/banner.png' alt='banner'>
+</p>
 
 
 # Objetivos teóricos a desarrollar
