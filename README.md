@@ -28,10 +28,35 @@
 
 ### Sobre el Proyecto
 
-_Expone listados de algunos personajes, planetas y films en los cuales intervinieron los personajes de Star Wars. _
+_Expone listados de algunos personajes, planetas y films en los cuales intervinieron los personajes de Star Wars._
 _Permitirá realizar busquedas por el nombre de cada una de las entidades. Filtrado de personajes segun el planeta de origen._
 
 ### Modelos
 
 _Se utiliza base de datos NoSQL, en este caso MongoDB y ORM Mongoose, con clúster alojado en MongoDB Atlas._
-_Las entidades para este proyecto son: Character, Film y Planet._
+_Los modelos para este proyecto son: Character, Film y Planet._
+_Cada modelo incluye sus métodos estaticos._
+
+### Servicios
+
+_Los servicios se encuentran desarrollados en Node.js y Express._
+_Ejemplo de Estructura de Servicio
+
+C:.
+├───characters       
+       └───src
+        |    ├───config
+        |    ├───controllers
+        |    ├───data
+        |    ├───middleware
+        |    ├───routes
+        |    └───utils
+        |     |     └───errors
+        |     ├──server.js
+        ├──.dockerignore
+        ├──.env
+        ├──.eslinterc.json
+        ├──.gitignore
+        ├──Dockerfile
+        ├──index.js
+
