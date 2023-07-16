@@ -1,10 +1,26 @@
 # StarWars_app - UPSKILLING
-<picture>
+<picture align="center">
 <img src='./client/src/assets/banner.png' alt='banner'>
 </picture>
 
 
 # Objetivos teóricos a desarrollar
+
+### Microservicios
+
+* Facilita la escalabilidad y la hace más eficiente
+
+* La capacidad de prueba de cada microservicio es mayor.
+
+* El mantenimiento se hace más sencillo y eficiente.
+
+* Permite que en un mismo proyecto coexistan distintas tecnologías: Múltiples lenguajes, bases de datos, protocolos, etc.
+
+* Hace mucho más sencillo el desarrollo paralelo de las distintas funcionalidades de la aplicación y, además, permite que este desarrollo sea independiente.
+
+* Permite que los despliegues sean independientes, lo que aumenta la tolerabilidad a fallos graves.
+
+
 ## Arquitectura de Microservicios:
 
 * Node.js
@@ -40,10 +56,11 @@ _Cada modelo incluye sus métodos estaticos._
 ### Servicios
 
 _Los servicios se encuentran desarrollados en Node.js y Express._
-_Ejemplo de Estructura de Servicio: 
 
-<figure>
-<img src='./client/src/assets/estructura.png' alt='estructura' />
+_Ejemplo de Estructura de Servicio:_
+
+<figure <picture align="center">
+    <img src='./client/src/assets/estructura.png' alt='estructura' />
 </figure>
 
 
