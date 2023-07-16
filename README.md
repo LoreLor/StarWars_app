@@ -87,7 +87,7 @@ _Cada modelo incluye sus métodos estaticos._
 _Estructura base del Gateway:_
 
 <p align="center" p=10>
-    <img src='./client/src/assets/gateway.png' alt='estructura' />
+    <img src='./client/src/assets/gateway.png' alt='gateway' />
 </p>
 
 
