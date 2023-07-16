@@ -102,8 +102,8 @@ _Estructura base del Gateway:_
 
 2. Creacion del archivo .dockerignore
 
-3. Creacion de imágen:  docker build -t <nombre-imagen>
+3. Creacion de imágen:  docker build -t "nombre-imagen"
 
-4. Levantar la imagen: docker run -p PORT:PORT <nombre-imagen>
+4. Levantar la imagen: docker run -p PORT:PORT "nombre-imagen"
 
 ### Docker Compose
