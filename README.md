@@ -40,26 +40,13 @@ _Cada modelo incluye sus métodos estaticos._
 ### Servicios
 
 _Los servicios se encuentran desarrollados en Node.js y Express._
-_Ejemplo de Estructura de Servicio
+_Ejemplo de Estructura de Servicio: 
 
-<div>C:.
-├───characters       
-       └───src
-        |    ├───config
-        |    ├───controllers
-        |    ├───data
-        |    ├───middleware
-        |    ├───routes
-        |    └───utils
-        |     |     └───errors
-        |     ├──server.js
-        ├──.dockerignore
-        ├──.env
-        ├──.eslinterc.json
-        ├──.gitignore
-        ├──Dockerfile
-        ├──index.js
-</div>
+<figure>
+<img src='./client/src/assets/estructura.png' alt='estructura' />
+</figure>
+
+
 
 
 #
