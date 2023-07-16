@@ -67,3 +67,10 @@ h1, h2, h3, h4 {
   line-height: 1.5;
   letter-spacing: 2px;
 }
+
+.image_md {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh
+}
