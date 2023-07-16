@@ -56,16 +56,22 @@ _Cada modelo incluye sus métodos estaticos._
 
 ### Servicios
 
-_Los servicios se encuentran desarrollados en Node.js y Express._
+#### characters
+- Descripción : Este servicio soporta las peticiones referidas a los personajes de Star Wars.
+- Tecnología : Api Rest, Node, Express, javascript.
 
-_Ejemplo de Estructura de Servicio:_
+- Funcionalidad : Manejo de tareas: Creación, Listado, Detalle y Borrado.
+
+- Modelo : colección "characters" que maneja documentos de tipo “Character” que contienen referencias al planeta de nacimiento y a los films en los cuales intervino el personaje.
+
+- Base de datos : MongoDB.
 
 
 <p align="center" p=10>
     <img src='./client/src/assets/estructura.png' alt='estructura' />
 </p>
 
-
+#### Similares caracteristicas para los modelos: "films" y "planets.
 
 
 #
