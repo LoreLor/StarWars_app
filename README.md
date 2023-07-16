@@ -1,6 +1,6 @@
 # StarWars_app - UPSKILLING
-<figure className='image_md'>
-    <img className='center-image' src='./client/src/assets/banner.png' alt='banner'>
+<figure>
+    <img src='./client/src/assets/banner.png' alt='banner'>
 </figure>
 
 
@@ -59,9 +59,9 @@ _Los servicios se encuentran desarrollados en Node.js y Express._
 
 _Ejemplo de Estructura de Servicio:_
 
-<figure className='image_md'>
-    <img className='center-image' src='./client/src/assets/estructura.png' alt='estructura' />
-</figure>
+<p align="center">
+    <img src='./client/src/assets/estructura.png' alt='estructura' />
+</p>
 
 
 
