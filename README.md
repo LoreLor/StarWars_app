@@ -84,5 +84,13 @@ _Cada modelo incluye sus métodos estaticos._
 
 - Funcionalidad : Se encarga de centralizar las llamadas a la aplicación en una URI principal que redirige las llamadas a los servicios configurados internamente.
 
-#
-#
+
+## Despliegue
+
+### Docker - Creacion y Ejecución de imágines
+
+1. creacion de archivo Dockerfile.
+
+<p align="center" p=10>
+    <img src='./client/src/assets/Dockerfile.png' alt='dockerfile' />
+</p>
