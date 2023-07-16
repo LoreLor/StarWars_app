@@ -1,12 +1,12 @@
 # StarWars_app - UPSKILLING
-<picture align="center">
-<img src='./client/src/assets/banner.png' alt='banner'>
+<picture>
+<img align="center" src='./client/src/assets/banner.png' alt='banner'>
 </picture>
 
 
 # Objetivos teóricos a desarrollar
 
-### Microservicios
+## Microservicios
 
 * Facilita la escalabilidad y la hace más eficiente
 
