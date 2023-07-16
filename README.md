@@ -74,6 +74,15 @@ _Cada modelo incluye sus métodos estaticos._
 #### Similares caracteristicas para los modelos: "films" y "planets.
 
 
-#
+### Gateway
+
+- Descripción : Servicio encargado de centralizar las llamadas a los demás servicios a través de una URI que hace de entrada a esas peticiones.
+
+
+- Tecnología : Api Rest, Node, Express, http-proxy-middleware.
+
+
+- Funcionalidad : Se encarga de centralizar las llamadas a la aplicación en una URI principal que redirige las llamadas a los servicios configurados internamente.
+
 #
 #
