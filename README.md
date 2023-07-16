@@ -64,7 +64,7 @@ _Cada modelo incluye sus métodos estaticos._
 
 - Modelo : colección "characters" que maneja documentos de tipo “Character” que contienen referencias al planeta de nacimiento y a los films en los cuales intervino el personaje.
 
-- Base de datos : MongoDB.
+- Base de datos : MongoDB - Mongo DB Atlas.
 
 
 <p align="center" p=10>
@@ -84,5 +84,26 @@ _Cada modelo incluye sus métodos estaticos._
 
 - Funcionalidad : Se encarga de centralizar las llamadas a la aplicación en una URI principal que redirige las llamadas a los servicios configurados internamente.
 
-#
-#
+_Estructura base del Gateway:_
+
+<p align="center" p=10>
+    <img src='./client/src/assets/gateway.png' alt='estructura' />
+</p>
+
+
+## Contenedores
+### Docker - Creacion y Ejecución de imágines
+
+1. creacion de archivo Dockerfile.
+
+<p align="center" p=10>
+    <img src='./client/src/assets/Dockerfile.png' alt='dockerfile' />
+</p>
+
+2. Creacion del archivo .dockerignore
+
+3. Creacion de imágen:  docker build -t <nombre-imagen>
+
+4. Levantar la imagen: docker run -p PORT:PORT <nombre-imagen>
+
+### Docker Compose
