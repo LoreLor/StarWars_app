@@ -107,3 +107,22 @@ _Estructura base del Gateway:_
 4. Levantar la imagen: docker run -p PORT:PORT "nombre-imagen"
 
 ### Docker Compose
+
+_Es una herramienta que facilita la orquestación y gestión de aplicaciones basadas en contenedores Docker._
+-Proporciona una forma sencilla y declarativa de definir y ejecutar servicios compuestos por múltiples contenedores._
+
+1. Creacion del archivo en la raiz del directorio del proyecto: docker-compose.yml
+
+<p align="center" p=10>
+    <img src='./client/src/assets/docker-compose.png' alt='dockerfile' />
+</p>
+
+_Este archivo contendrá la direccion de todas las imagenes que queremos gestionar. (characters, films, planets, gateway, database, etc)._
+
+2. Creacion del contenedor: docker-compose build
+
+3. Levantar el contenedor: docker-compose up
+
+4. Detener y eliminar el contenedor: docker-compose down
+
+#### 
