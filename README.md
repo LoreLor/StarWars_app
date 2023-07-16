@@ -42,7 +42,7 @@ _Cada modelo incluye sus métodos estaticos._
 _Los servicios se encuentran desarrollados en Node.js y Express._
 _Ejemplo de Estructura de Servicio
 
-C:.
+<div>C:.
 ├───characters       
        └───src
         |    ├───config
@@ -59,4 +59,9 @@ C:.
         ├──.gitignore
         ├──Dockerfile
         ├──index.js
+</div>
 
+
+#
+#
+#
