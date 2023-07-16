@@ -1,4 +1,5 @@
 # StarWars_app - UPSKILLING
+
 <figure>
     <img src='./client/src/assets/banner.png' alt='banner'>
 </figure>
@@ -59,7 +60,8 @@ _Los servicios se encuentran desarrollados en Node.js y Express._
 
 _Ejemplo de Estructura de Servicio:_
 
-<p align="center">
+
+<p align="center" p=10>
     <img src='./client/src/assets/estructura.png' alt='estructura' />
 </p>
 
