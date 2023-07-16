@@ -59,7 +59,7 @@ _Los servicios se encuentran desarrollados en Node.js y Express._
 
 _Ejemplo de Estructura de Servicio:_
 
-<figure <picture align="center">
+<figure className='image_md'>
     <img src='./client/src/assets/estructura.png' alt='estructura' />
 </figure>
 
