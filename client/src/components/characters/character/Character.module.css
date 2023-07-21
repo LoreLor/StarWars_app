@@ -63,6 +63,7 @@
   }
   
   .description {
+    margin-top: 2rem;
     transform: translateZ(3rem);
     line-height: 3rem;
   }
@@ -71,10 +72,19 @@
     text-align: start;
   }
 
-  .card_image img {
-    object-fit: contain;
-    height: 200px;
+  .card_image {
+    padding: 1rem;
+    border-radius: 15px;
+  }
+  
+  .imageChar {
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    width: 45%;
+    height: 50%;
     position: absolute;
+    left: 90px;
     bottom: 10px;
-    left: 0;
+    border-radius: 15px;
   }
