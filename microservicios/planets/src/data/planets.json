@@ -8,6 +8,7 @@
     "climate": "arid",
     "gravity": "1 standard",
     "terrain": "desert",
+    "image":"https://i.postimg.cc/vBtm9Dhv/Tatooine-TPM.webp",
     "surface_water": "1",
     "residents": ["1", "2", "4", "6", "7", "8", "9", "11", "43", "62"],
     "films": ["1", "3", "4", "5", "6"]
@@ -21,6 +22,7 @@
     "climate": "temperate",
     "gravity": "1 standard",
     "terrain": "grasslands, mountains",
+    "image":"https://i.postimg.cc/vHp0gmNj/Alderaan.webp",
     "surface_water": "40",
     "residents": ["5", "68", "81"],
     "films": ["1", "6"]
@@ -34,6 +36,7 @@
     "climate": "temperate, tropical",
     "gravity": "1 standard",
     "terrain": "jungle, rainforests",
+    "image":"https://i.postimg.cc/6QjKNRMg/Yavin-4-SWCT.webp",
     "surface_water": "8",
     "residents": [],
     "films": ["1"]
@@ -47,6 +50,7 @@
     "climate": "frozen",
     "gravity": "1.1 standard",
     "terrain": "tundra, ice caves, mountain ranges",
+    "image":"https://i.postimg.cc/P5yK6MxG/Hoth-SWCT.webp",
     "surface_water": "100",
     "residents": [],
     "films": ["2"]
@@ -60,6 +64,7 @@
     "climate": "murky",
     "gravity": "N/A",
     "terrain": "swamp, jungles",
+    "image":"https://i.postimg.cc/d0nRBQ5J/Dagobah.webp",
     "surface_water": "8",
     "residents": [],
     "films": ["2", "3", "6"]
@@ -73,6 +78,7 @@
     "climate": "temperate",
     "gravity": "1.5 (surface), 1 standard (Cloud City)",
     "terrain": "gas giant",
+    "image":"https://i.postimg.cc/W1GwdwrF/Bespin-Eot-ECR.webp",
     "surface_water": "0",
     "residents": ["26"],
     "films": ["2"]
@@ -86,6 +92,7 @@
     "climate": "temperate",
     "gravity": "0.85 standard",
     "terrain": "forests, mountains, lakes",
+    "image":"https://i.postimg.cc/vBcPx6bJ/Endor-FFGRebellion.webp",
     "surface_water": "8",
     "residents": ["30"],
     "films": ["3"]
@@ -99,6 +106,7 @@
     "climate": "temperate",
     "gravity": "1 standard",
     "terrain": "grassy hills, swamps, forests, mountains",
+    "image":"https://i.postimg.cc/v8zScMrL/Naboo.webp",
     "surface_water": "12",
     "residents": [
       "3",
@@ -124,6 +132,7 @@
     "climate": "temperate",
     "gravity": "1 standard",
     "terrain": "cityscape, mountains",
+    "image":"https://i.postimg.cc/Y2vVhTSv/Coruscant-Eot-E.webp",
     "surface_water": "unknown",
     "residents": ["34", "55", "74"],
     "films": ["3", "4", "5", "6"]
@@ -137,6 +146,7 @@
     "climate": "temperate",
     "gravity": "1 standard",
     "terrain": "ocean",
+    "image":"https://i.postimg.cc/4d75xk1Z/Kamino.webp",
     "surface_water": "100",
     "residents": ["22", "72", "73"],
     "films": ["5"]
@@ -150,6 +160,7 @@
     "climate": "temperate, arid",
     "gravity": "0.9 standard",
     "terrain": "rock, desert, mountain, barren",
+    "image":"https://i.postimg.cc/CM92DJZm/Geonosis.jpg",
     "surface_water": "5",
     "residents": ["63"],
     "films": ["5"]
@@ -163,6 +174,7 @@
     "climate": "temperate, arid, windy",
     "gravity": "1 standard",
     "terrain": "scrublands, savanna, canyons, sinkholes",
+    "image":"https://i.postimg.cc/Mp7gzRpt/Utapau_TEA.webp",
     "surface_water": "0.9",
     "residents": ["83"],
     "films": ["6"]
@@ -176,6 +188,7 @@
     "climate": "hot",
     "gravity": "1 standard",
     "terrain": "volcanoes, lava rivers, mountains, caves",
+    "image":"https://i.postimg.cc/mkWQZcDN/Mustafar.webp",
     "surface_water": "0",
     "residents": [],
     "films": ["6"]
@@ -189,6 +202,7 @@
     "climate": "tropical",
     "gravity": "1 standard",
     "terrain": "jungle, forests, lakes, rivers",
+    "image":"https://i.postimg.cc/5Nqm0m8H/Kashyyyk-FFGRebellion.webp",
     "surface_water": "60",
     "residents": ["13", "80"],
     "films": ["6"]
@@ -202,6 +216,7 @@
     "climate": "artificial temperate ",
     "gravity": "0.56 standard",
     "terrain": "airless asteroid",
+    "image":"https://i.postimg.cc/9FVGvqsc/Polis-Massa.webp",
     "surface_water": "0",
     "residents": [],
     "films": ["6"]
@@ -215,6 +230,7 @@
     "climate": "frigid",
     "gravity": "1 standard",
     "terrain": "glaciers, mountains, ice canyons",
+    "image":"https://i.postimg.cc/Sxg7LNTk/Mygeeto-TEA.webp",
     "surface_water": "unknown",
     "residents": [],
     "films": ["6"]
@@ -228,6 +244,7 @@
     "climate": "hot, humid",
     "gravity": "0.75 standard",
     "terrain": "fungus forests",
+    "image":"https://i.postimg.cc/VLMVFMn1/Felucia-TEA.webp",
     "surface_water": "unknown",
     "residents": [],
     "films": ["6"]
@@ -241,6 +258,7 @@
     "climate": "temperate, moist",
     "gravity": "1 standard",
     "terrain": "mountains, fields, forests, rock arches",
+    "image":"https://i.postimg.cc/W3kGPm21/Neimoidia.webp",
     "surface_water": "unknown",
     "residents": ["33"],
     "films": ["6"]
@@ -254,6 +272,7 @@
     "climate": "hot",
     "gravity": "unknown",
     "terrain": "caves, desert, mountains, volcanoes",
+    "image":"https://i.postimg.cc/QCSHLVWM/Saleucami-MPQ.webp",
     "surface_water": "unknown",
     "residents": [],
     "films": ["6"]
@@ -267,6 +286,7 @@
     "climate": "temperate",
     "gravity": "1 standard",
     "terrain": "grass",
+    "image":"https://i.postimg.cc/BZC8P7wG/Stewjon.jpg",
     "surface_water": "unknown",
     "residents": ["10"],
     "films": []
@@ -280,6 +300,7 @@
     "climate": "polluted",
     "gravity": "1 standard",
     "terrain": "cityscape",
+    "image":"https://i.postimg.cc/YSXnSxKN/Eriadu-TEA.webp",
     "surface_water": "unknown",
     "residents": ["12"],
     "films": []
@@ -293,6 +314,7 @@
     "climate": "temperate",
     "gravity": "1 standard",
     "terrain": "plains, urban, hills, forests",
+    "image":"https://i.postimg.cc/JnnNdwFZ/Corellia.webp",
     "surface_water": "70",
     "residents": ["14", "18"],
     "films": []
@@ -306,6 +328,7 @@
     "climate": "hot",
     "gravity": "1 standard",
     "terrain": "jungles, oceans, urban, swamps",
+    "image":"https://i.postimg.cc/9f4TGPwY/Rodia.webp",
     "surface_water": "60",
     "residents": ["15"],
     "films": []
@@ -319,6 +342,7 @@
     "climate": "temperate",
     "gravity": "1 standard",
     "terrain": "urban, oceans, swamps, bogs",
+    "image":"https://i.postimg.cc/bvKnLGQc/Nal-Hutta.webp",
     "surface_water": "unknown",
     "residents": ["16"],
     "films": []
@@ -332,6 +356,7 @@
     "climate": "temperate",
     "gravity": "1 standard",
     "terrain": "oceans, savannas, mountains, grasslands",
+    "image":"https://i.postimg.cc/DmV1ZSwP/Dantooine.webp",
     "surface_water": "unknown",
     "residents": [],
     "films": []
@@ -345,6 +370,7 @@
     "climate": "temperate",
     "gravity": "unknown",
     "terrain": "rocky islands, oceans",
+    "image":"https://i.postimg.cc/nLnYB9Yd/Bestine.webp",
     "surface_water": "98",
     "residents": ["19"],
     "films": []
@@ -358,6 +384,7 @@
     "climate": "temperate",
     "gravity": "1 standard",
     "terrain": "plains, seas, mesas",
+    "image":"https://i.postimg.cc/qMk3mHCR/Ord-Mantell.webp",
     "surface_water": "10",
     "residents": [],
     "films": ["2"]
@@ -371,6 +398,7 @@
     "climate": "unknown",
     "gravity": "unknown",
     "terrain": "unknown",
+    "image":"https://i.postimg.cc/T3M903XD/unknow.jpg",
     "surface_water": "unknown",
     "residents": ["20", "23", "29", "32", "75"],
     "films": []
@@ -384,6 +412,7 @@
     "climate": "arid",
     "gravity": "0.62 standard",
     "terrain": "mountains, seas, grasslands, deserts",
+    "image":"https://i.postimg.cc/sx1tyDnc/Trandosha.webp",
     "surface_water": "unknown",
     "residents": ["24"],
     "films": []
@@ -397,6 +426,7 @@
     "climate": "arid",
     "gravity": "1 standard",
     "terrain": "deserts, mountains",
+    "image":"https://i.postimg.cc/Wzshf0zK/Socorro.jpg",
     "surface_water": "unknown",
     "residents": ["25"],
     "films": []
@@ -410,6 +440,7 @@
     "climate": "temperate",
     "gravity": "1",
     "terrain": "oceans, reefs, islands",
+    "image":"https://i.postimg.cc/8C3R3XgY/Mon-Cala.webp",
     "surface_water": "100",
     "residents": ["27"],
     "films": []
@@ -423,6 +454,7 @@
     "climate": "temperate",
     "gravity": "1",
     "terrain": "plains, forests",
+    "image":"https://i.postimg.cc/m2cdg98C/Chandrilla.webp",
     "surface_water": "40",
     "residents": ["28"],
     "films": []
@@ -436,6 +468,7 @@
     "climate": "superheated",
     "gravity": "1",
     "terrain": "mountains, volcanoes, rocky deserts",
+    "image":"https://i.postimg.cc/Y0yMfFWQ/Sullust.webp",
     "surface_water": "5",
     "residents": ["31"],
     "films": []
@@ -449,6 +482,7 @@
     "climate": "temperate",
     "gravity": "1",
     "terrain": "swamps, lakes",
+    "image":"https://i.postimg.cc/fRSTC85y/Toydaria.webp",
     "surface_water": "unknown",
     "residents": ["40"],
     "films": []
@@ -462,6 +496,7 @@
     "climate": "arid, temperate, tropical",
     "gravity": "1.56",
     "terrain": "swamps, deserts, jungles, mountains",
+    "image":"https://i.postimg.cc/Mp6mjjY9/Malastare.webp",
     "surface_water": "unknown",
     "residents": ["41"],
     "films": []
@@ -475,6 +510,7 @@
     "climate": "temperate",
     "gravity": "0.9",
     "terrain": "forests, deserts, savannas",
+    "image":"https://i.postimg.cc/YCHyD9zF/Dathomir.webp",
     "surface_water": "unknown",
     "residents": ["44"],
     "films": []
@@ -488,6 +524,7 @@
     "climate": "temperate, arid, subartic",
     "gravity": "1",
     "terrain": "mountains, valleys, deserts, tundra",
+    "image":"https://i.postimg.cc/T31W6j0v/Ryloth.webp",
     "surface_water": "5",
     "residents": ["45", "46"],
     "films": []
@@ -501,6 +538,7 @@
     "climate": "unknown",
     "gravity": "unknown",
     "terrain": "unknown",
+    "image":"https://i.postimg.cc/ryZnTjCq/Aleen.webp",
     "surface_water": "unknown",
     "residents": ["47"],
     "films": []
@@ -514,6 +552,7 @@
     "climate": "temperate, artic",
     "gravity": "1",
     "terrain": "urban, barren",
+    "image":"https://i.postimg.cc/PNGFjrGB/Vulpter_FF7.webp",
     "surface_water": "unknown",
     "residents": ["48"],
     "films": []
@@ -527,6 +566,7 @@
     "climate": "unknown",
     "gravity": "unknown",
     "terrain": "desert, tundra, rainforests, mountains",
+    "image":"https://i.postimg.cc/xdKjDqwS/Troikenb.jpg",
     "surface_water": "unknown",
     "residents": ["49"],
     "films": []
@@ -540,6 +580,7 @@
     "climate": "unknown",
     "gravity": "unknown",
     "terrain": "barren, ash",
+    "image":"https://i.postimg.cc/bN2KF4X7/Tund.webp",
     "surface_water": "unknown",
     "residents": ["50"],
     "films": []
@@ -553,6 +594,7 @@
     "climate": "temperate",
     "gravity": "0.98",
     "terrain": "toxic cloudsea, plateaus, volcanoes",
+    "image":"https://i.postimg.cc/VNsZ1VTL/Haruun-Kal.webp",
     "surface_water": "unknown",
     "residents": ["51"],
     "films": []
@@ -566,6 +608,7 @@
     "climate": "temperate",
     "gravity": "1",
     "terrain": "verdant",
+    "image":"https://i.postimg.cc/zvQ0kDXy/Cerea.jpg",
     "surface_water": "20",
     "residents": ["52"],
     "films": []
@@ -579,6 +622,7 @@
     "climate": "tropical, temperate",
     "gravity": "1",
     "terrain": "lakes, islands, swamps, seas",
+    "image":"https://i.postimg.cc/pLJcwHs6/Glee-Anselm.webp",
     "surface_water": "80",
     "residents": ["53"],
     "films": []
@@ -592,6 +636,7 @@
     "climate": "unknown",
     "gravity": "unknown",
     "terrain": "rocky canyons, acid pools",
+    "image":"https://i.postimg.cc/bYSCzb6b/Iridonia.webp",
     "surface_water": "unknown",
     "residents": ["54"],
     "films": []
@@ -605,6 +650,7 @@
     "climate": "unknown",
     "gravity": "unknown",
     "terrain": "unknown",
+    "image":"https://i.postimg.cc/L5y6C7rY/Tholoth.jpg",
     "surface_water": "unknown",
     "residents": [],
     "films": []
@@ -618,6 +664,7 @@
     "climate": "arid, rocky, windy",
     "gravity": "1",
     "terrain": "rocky",
+    "image":"https://i.postimg.cc/DyqxGh3w/Iktotch.webp",
     "surface_water": "unknown",
     "residents": ["56"],
     "films": []
@@ -631,6 +678,7 @@
     "climate": "unknown",
     "gravity": "unknown",
     "terrain": "unknown",
+    "image":"https://i.postimg.cc/rww5p28b/Quermia.webp",
     "surface_water": "unknown",
     "residents": ["57"],
     "films": []
@@ -644,6 +692,7 @@
     "climate": "temperate",
     "gravity": "1",
     "terrain": "unknown",
+    "image":"https://i.postimg.cc/pr5DRfRd/Dorin.webp",
     "surface_water": "unknown",
     "residents": ["58"],
     "films": []
@@ -657,6 +706,7 @@
     "climate": "temperate",
     "gravity": "1",
     "terrain": "oceans, rainforests, plateaus",
+    "image":"https://i.postimg.cc/0yDcpsgN/Champala.webp",
     "surface_water": "unknown",
     "residents": ["59"],
     "films": []
@@ -670,6 +720,7 @@
     "climate": "unknown",
     "gravity": "unknown",
     "terrain": "deserts",
+    "image":"https://i.postimg.cc/xjm5rQC3/Mirial.webp",
     "surface_water": "unknown",
     "residents": ["64", "65"],
     "films": []
@@ -683,6 +734,7 @@
     "climate": "unknown",
     "gravity": "unknown",
     "terrain": "rainforests, rivers, mountains",
+    "image":"https://i.postimg.cc/9FJqKgGB/Serenno-Massacre.webp",
     "surface_water": "unknown",
     "residents": ["67"],
     "films": []
@@ -696,6 +748,7 @@
     "climate": "unknown",
     "gravity": "unknown",
     "terrain": "jungles, forests, deserts",
+    "image":"https://i.postimg.cc/C5R4dyHS/Concord-Dawn-system.webp",
     "surface_water": "unknown",
     "residents": ["69"],
     "films": []
@@ -709,6 +762,7 @@
     "climate": "unknown",
     "gravity": "unknown",
     "terrain": "unknown",
+    "image":"https://i.postimg.cc/tJ884N6v/Zolan.webp",
     "surface_water": "unknown",
     "residents": ["70"],
     "films": []
@@ -722,6 +776,7 @@
     "climate": "frigid",
     "gravity": "unknown",
     "terrain": "oceans, glaciers",
+    "image":"https://i.postimg.cc/nrKqXH98/Ojom.webp",
     "surface_water": "100",
     "residents": ["71"],
     "films": []
@@ -735,6 +790,7 @@
     "climate": "temperate",
     "gravity": "1",
     "terrain": "urban, vines",
+    "image":"https://i.postimg.cc/25BbqzgH/Skako.webp",
     "surface_water": "unknown",
     "residents": ["76"],
     "films": []
@@ -748,6 +804,7 @@
     "climate": "temperate",
     "gravity": "1",
     "terrain": "plains, forests, hills, mountains",
+    "image":"https://i.postimg.cc/NGR6JxJN/Muunilinst-FE.png",
     "surface_water": "25",
     "residents": ["77"],
     "films": []
@@ -761,6 +818,7 @@
     "climate": "temperate",
     "gravity": "1",
     "terrain": "cities, savannahs, seas, plains",
+    "image":"https://i.postimg.cc/qvF6MtDh/Shili.webp",
     "surface_water": "unknown",
     "residents": ["78"],
     "films": []
@@ -774,6 +832,7 @@
     "climate": "arid, temperate, tropical",
     "gravity": "1",
     "terrain": "rainforests, cliffs, canyons, seas",
+    "image":"https://i.postimg.cc/TYX9fs5M/Kalee.webp",
     "surface_water": "unknown",
     "residents": ["79"],
     "films": []
@@ -787,6 +846,7 @@
     "climate": "unknown",
     "gravity": "unknown",
     "terrain": "unknown",
+    "image":"https://i.postimg.cc/kGDd45pG/Umbara.webp",
     "surface_water": "unknown",
     "residents": ["82"],
     "films": []
