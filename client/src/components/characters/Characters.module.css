@@ -15,6 +15,15 @@
     color:var(--font-color);
     text-transform: uppercase;
     font-size: 3rem;
+    border: 2px solid var(--font-color);
+    padding:10px 20px;
+    transition: var(--transition);
+}
+
+.title:hover{
+  color:var(--dark-color);
+  border: 2px solid var(--dark-color);
+  transform: scale(0.90);
 }
 
 .content {
@@ -26,5 +35,18 @@
 }
 
 
-
+/* Estilos para dispositivos móviles */
+@media screen and (max-width: 768px) {
+    /* Agrega aquí tus estilos para móviles */
+  }
+  
+  /* Estilos para dispositivos de tamaño mediano */
+  @media screen and (min-width: 769px) and (max-width: 1024px) {
+    /* Agrega aquí tus estilos para tabletas, etc. */
+  }
+  
+  /* Estilos para dispositivos de tamaño grande (escritorios) */
+  @media screen and (min-width: 1025px) {
+    /* Agrega aquí tus estilos para escritorios */
+  }
 

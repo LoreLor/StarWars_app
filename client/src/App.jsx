@@ -5,11 +5,9 @@ import Characters from './components/characters/Characters'
 import Header from './components/header/Header'
 import Navbar from './components/navbar/Navbar'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 import { useEffect } from 'react'
-
 
 
 
@@ -22,13 +20,14 @@ function App() {
     <div className='App'>
       <Navbar />
       <Header />
-     
       <Characters />
+
       <div className="up">
         <a href="#header">
         <FontAwesomeIcon icon={faArrowAltCircleUp} />
         </a>
       </div>
+      
     </div>
   )
 }

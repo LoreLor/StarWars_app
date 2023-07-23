@@ -12,7 +12,7 @@
   --light-grey: #d8d2d2;
   --white-color: #F2F7FC;
   --border-width: 2px;
-  --transition: all 1s ease-in-out;
+  --transition: all 0.89s ease-in-out;
 }
 
 * {

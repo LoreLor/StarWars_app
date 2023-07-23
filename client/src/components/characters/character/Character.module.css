@@ -88,3 +88,18 @@
     bottom: 10px;
     border-radius: 15px;
   }
+
+  /* Estilos para dispositivos móviles */
+@media screen and (max-width: 768px) {
+  /* Agrega aquí tus estilos para móviles */
+}
+
+/* Estilos para dispositivos de tamaño mediano */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  /* Agrega aquí tus estilos para tabletas, etc. */
+}
+
+/* Estilos para dispositivos de tamaño grande (escritorios) */
+@media screen and (min-width: 1025px) {
+  /* Agrega aquí tus estilos para escritorios */
+}
